@@ -1,0 +1,9 @@
+{
+  "item.createeconomy.trading_stick": "Trading Stick",
+  "item.createeconomy.coin": "Coin",
+  "gui.createeconomy.trading": "Trading",
+  "gui.createeconomy.balance": "Balance: %s",
+  "gui.createeconomy.sell_all": "Sell all inventory",
+  "message.createeconomy.sold": "Sold items for %s coins",
+  "scoreboard.createeconomy.balance": "Balance"
+}
