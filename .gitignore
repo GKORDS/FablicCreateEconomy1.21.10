@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+out/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+*.classpath
+*.project
+*.settings/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Minecraft related
+run/

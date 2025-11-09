@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "createeconomy",
+  "version": "${version}",
+  "name": "Create Economy",
+  "description": "Adds a simple player economy with a trading stick and GUI.",
+  "authors": [
+    "Codex"
+  ],
+  "contact": {
+    "homepage": "https://example.com",
+    "sources": "https://github.com/example/FablicCreateEconomy1.21.10"
+  },
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.fablic.createeconomy.CreateEconomyMod"
+    ],
+    "client": [
+      "com.fablic.createeconomy.CreateEconomyModClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.17.3",
+    "minecraft": "1.21.10",
+    "fabric-api": "*"
+  }
+}
