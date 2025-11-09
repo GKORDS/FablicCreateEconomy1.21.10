@@ -1,0 +1,6 @@
+{
+  "item.fablic_create_economy.trading_stick": "Trading Stick",
+  "item.fablic_create_economy.coin": "Coin",
+  "gui.fablic_create_economy.balance": "Balance: %s",
+  "gui.fablic_create_economy.sell_all": "Sell All Inventory"
+}

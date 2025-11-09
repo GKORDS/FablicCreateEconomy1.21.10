@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "fablic_create_economy",
+  "version": "${version}",
+  "name": "Fablic Create Economy",
+  "description": "Adds a simple server-side economy with a trading stick and GUI.",
+  "authors": ["Codex"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.fablic.createeconomy.MoneyMod"
+    ],
+    "client": [
+      "com.fablic.createeconomy.MoneyModClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
